@@ -39,8 +39,8 @@ export const projectsData = [
       'A full-stack web application using XAMPP stack, this app allows you to check your current ' +
       'carbon footprint produced by food and to build your low carbon foodprint recipes.',
     info2:
-      'I used jQuery, Chart.js, PHP, JavaScript, HTML, and CSS in order to create this web application and it was deployed with Azure virtual machines.',
-    url: 'https://github.com/mijikm/carbon-footprint/blob/master/images/carbon_footprint.gif',
+      'I used jQuery, Chart.js, PHP, JavaScript, HTML, Bootstrap and CSS in order to create this web application and it was deployed with Azure virtual machines.',
+    url: 'https://github.com/mijikm/carbon-footprint/blob/master/images/eat_healthy_demo.gif',
     repo: 'https://github.com/mijikm/carbon-footprint', // if no repo, the button will not show up
   },
   {
